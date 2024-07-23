@@ -1,0 +1,122 @@
+{
+  "main": {
+    "name": "Carlos Aquino",
+    "occupation": "Sr. Buyer and Fullstack student",
+    "description": "Sr. Buyer",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I am Carlos! ",
+    "contactmessage": "Get in touch with me!",
+    "email": "CarlitosWay65.team@gmail.com",
+    "phone": "+01 555 123 6789",
+    "address": {
+      "street": "Mexicali",
+      "city": "Mexicali",
+      "state": "Baja California",
+      "zip": "W3B3"
+    },
+    "website": "https://www.google.com",
+    "resumedownload": "http://www.google.com",
+    "social": [
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/sonny.sangha.3",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/saajansangha",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/ssssangha/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/369NEO",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "ITESM",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "July 2023",
+        "description": "Graduated with First Class Honours"
+      }
+    ],
+    "work": [
+      {
+        "company": "Coppel",
+        "title": "Sr. Buyer",
+        "years": "May 2015 - Present",
+        "description": "Sr. Furniture Buyer"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "60%"
+      },
+      {
+        "name": "Python",
+        "level": "60%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "60%"
+      },
+      {
+        "name": "Web Development",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Snapchat Clone (React JS)",
+        "category": "",
+        "image": "snapchat1.png",
+        "url": "https://youtu.be/1kGISk5ft2w"
+      },
+      {
+        "title": "Gmail Clone (React JS)",
+        "category": "",
+        "image": "gmail1.png",
+        "url": "https://youtu.be/b7nrXjS6Dqs"
+      },
+      {
+        "title": "LinkedIn Clone (React JS)",
+        "category": "",
+        "image": "linkedin1.png",
+        "url": "https://youtu.be/QaYts9sPmcY"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Carlos is absolutely intelligent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
+        "user": "Ernesto Palacios"
+      },
+      {
+        "text": "Learning with Carlos has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Ulises Magallon"
+      }
+    ]
+  }
+}
